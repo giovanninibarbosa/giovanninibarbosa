@@ -6,8 +6,11 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanninibarbosa&show_icons=true&theme=dark&layout=compact" />
 
+<img height="360" src="https://github-readme-stats.vercel.app/api/wakatime?username=giovanninibarbosa" />
+
 <img alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 
 </div>
