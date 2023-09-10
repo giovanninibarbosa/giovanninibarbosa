@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row;">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanninibarbosa&theme=dark&show_icons=true&theme=gradient&include_all_commits=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanninibarbosa&show_icons=true&theme=dark&layout=compact" />
 </div>
