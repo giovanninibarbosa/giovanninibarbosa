@@ -6,7 +6,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanninibarbosa&show_icons=true&theme=dark&layout=compact" />
 
-<img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+<img alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 </div>
 <div style="display: inline_block"><br>
   
