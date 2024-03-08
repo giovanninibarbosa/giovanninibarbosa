@@ -12,9 +12,9 @@
 
 <div style="display: flex; flex-direction: row;">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanninibarbosa&count_private=true&include_all_commits=true&theme=default&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanninibarbosa&count_private=true&include_all_commits=true&theme=dark&show_icons=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanninibarbosa&count_private=true&include_all_commits=true&show_icons=true&theme=default&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanninibarbosa&count_private=true&include_all_commits=true&show_icons=true&theme=dark&layout=compact" />
 
 <div align="justify">
 
